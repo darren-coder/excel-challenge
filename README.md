@@ -16,7 +16,7 @@ Limitations
 
 There are many different currencies used in this dataset which harms the accuracy of the monetary calculations.
 
-The total number of campaigns by category vary quite a bit. Similar sample sizes of each category would give a more accurate
+The total number of campaigns by category varies quite a bit. Similar sample sizes of each category would give a more accurate
 measure of the rate of success by category.
 
 
